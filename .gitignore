@@ -1,0 +1,12 @@
+/.github
+/.venv
+/CONTRIBUTING.md
+/docker-compose.yml
+/Include
+/Lib
+/postman
+/PRIVACY-STATEMENT.md
+/pyvenv.cfg
+/README.md
+/Scripts
+/statCalcData
